@@ -1,0 +1,251 @@
+Customer_ID,Customer_Name,Age,Gender,Account_Type,Balance,Transaction_Date,Transaction_Type,Transaction_Amount,Loan_Status
+CUST1055,Lori Sutton,58,Male,Loan,73131.84,2024-10-28,Credit,8713.46,Active
+CUST1083,Rachel Ayala,20,Male,Savings,68824.5,2024-05-05,Credit,12915.76,
+CUST1082,Adrienne West,22,Male,Savings,98573.98,2024-08-12,Credit,13412.67,
+CUST1018,Brooke French,47,Male,Savings,62041.63,2024-10-22,Credit,7333.53,
+CUST1067,Kelly Murphy,41,Female,Fixed Deposit,17198.02,2025-07-29,Debit,13357.83,
+CUST1014,Carmen Patterson,18,Male,Savings,39633.39,2025-06-07,Debit,12676.79,
+CUST1080,Tammy Wallace,19,Female,Savings,43897.65,2024-06-22,Debit,11979.96,
+CUST1067,Kelly Murphy,41,Female,Current,96233.56,2024-01-06,Debit,2959.93,
+CUST1072,Zachary Villanueva,49,Male,Loan,84372.91,2024-05-20,Debit,17052.82,Default
+CUST1060,Alan Delgado,50,Male,Current,30328.11,2024-02-20,Credit,9212.62,
+CUST1100,Matthew Howe,19,Male,Fixed Deposit,79166.79,2023-11-28,Credit,13130.42,
+CUST1032,Christine Brown,39,Male,Loan,62048.09,2024-09-23,Debit,7493.22,Default
+CUST1023,Sean Edwards,56,Male,Savings,7749.5,2024-05-25,Debit,12649.9,
+CUST1019,Pamela Kelly,31,Female,Savings,15516.82,2024-05-06,Credit,19008.71,
+CUST1041,Leonard Craig,35,Male,Fixed Deposit,67847.5,2024-02-29,Debit,3498.51,
+CUST1027,Calvin Simmons,50,Male,Savings,84624.57,2025-06-30,Debit,18288.48,
+CUST1051,Wendy Lowery,36,Female,Loan,76300.93,2024-10-04,Credit,13659.83,Active
+CUST1012,Shannon Garcia,46,Female,Fixed Deposit,48290.92,2023-10-01,Credit,14235.91,
+CUST1045,Ronald Jones,64,Female,Current,26850.46,2024-01-10,Debit,5685.01,
+CUST1080,Tammy Wallace,19,Female,Fixed Deposit,33245.29,2023-10-01,Debit,7400.17,
+CUST1075,Taylor Ortiz,21,Female,Loan,90115.56,2024-08-20,Debit,9798.57,Closed
+CUST1100,Matthew Howe,19,Male,Current,20146.77,2024-10-05,Debit,4708.58,
+CUST1030,Michelle Henry,61,Female,Current,38998.53,2025-02-25,Debit,895.26,
+CUST1063,Jonathan Clayton,66,Female,Fixed Deposit,53800.93,2024-06-05,Debit,18661.68,
+CUST1030,Michelle Henry,61,Female,Fixed Deposit,93853.12,2023-09-30,Debit,11105.78,
+CUST1092,Suzanne Mcconnell,24,Male,Savings,73862.17,2024-12-25,Debit,12099.75,
+CUST1080,Tammy Wallace,19,Female,Fixed Deposit,9391.18,2025-06-30,Credit,2072.05,
+CUST1082,Adrienne West,22,Male,Loan,28152.92,2024-04-18,Credit,19890.91,Default
+CUST1086,Rebekah Brooks,69,Male,Current,82740.1,2023-12-03,Credit,1186.34,
+CUST1085,Roberto Hill,63,Female,Savings,62617.84,2024-02-24,Debit,14095.4,
+CUST1017,Robert Jones,54,Female,Current,85632.97,2025-03-26,Debit,2075.21,
+CUST1097,Daniel Sparks,49,Female,Savings,95714.21,2023-12-25,Debit,12340.23,
+CUST1088,Eric Thomas,49,Male,Loan,56602.77,2024-08-05,Credit,6112.46,Closed
+CUST1002,Donna Gordon MD,22,Female,Current,5404.83,2023-10-05,Credit,10597.98,
+CUST1053,Tammy Noble,55,Female,Current,47071.76,2024-04-09,Debit,19124.94,
+CUST1094,Joanna Sims,20,Female,Savings,55866.08,2025-04-28,Debit,4089.31,
+CUST1065,Patricia Baker,49,Male,Fixed Deposit,1002.04,2024-03-18,Credit,2176.91,
+CUST1051,Wendy Lowery,36,Female,Fixed Deposit,80682.16,2025-03-23,Debit,9780.48,
+CUST1030,Michelle Henry,61,Female,Loan,46966.71,2024-06-13,Credit,13966.32,Default
+CUST1064,Evan Peterson,53,Male,Savings,47497.31,2025-05-25,Debit,11157.6,
+CUST1063,Jonathan Clayton,66,Female,Fixed Deposit,83894.36,2024-10-12,Debit,9604.7,
+CUST1067,Kelly Murphy,41,Female,Loan,24487.6,2024-05-21,Credit,8618.44,Default
+CUST1012,Shannon Garcia,46,Female,Savings,10126.57,2023-12-24,Credit,2161.54,
+CUST1032,Christine Brown,39,Male,Fixed Deposit,23636.31,2024-03-04,Credit,12010.59,
+CUST1067,Kelly Murphy,41,Female,Loan,50957.01,2024-04-06,Debit,11428.3,Default
+CUST1015,Bonnie Chavez,48,Female,Loan,10311.24,2024-04-13,Debit,10528.88,Closed
+CUST1069,Robert Vasquez,42,Male,Current,78827.37,2024-09-11,Credit,1055.7,
+CUST1006,Ryan Walker,25,Female,Savings,18472.7,2023-12-09,Credit,8498.83,
+CUST1099,Madison Ramos,54,Female,Savings,65180.92,2025-09-08,Debit,2879.38,
+CUST1015,Bonnie Chavez,48,Female,Fixed Deposit,66896.96,2025-01-02,Debit,5573.57,
+CUST1053,Tammy Noble,55,Female,Loan,60233.88,2025-08-22,Credit,15538.55,Active
+CUST1006,Ryan Walker,25,Female,Savings,60155.25,2025-02-26,Debit,4328.83,
+CUST1038,Pamela Carlson,64,Female,Fixed Deposit,46958.63,2024-09-29,Credit,1135.96,
+CUST1091,Elizabeth Mitchell,25,Male,Loan,83057.42,2024-11-17,Debit,1527.56,Default
+CUST1095,Sheena Jackson,28,Male,Fixed Deposit,38765.1,2024-12-22,Debit,712.97,
+CUST1087,Willie Elliott,51,Female,Loan,58975.06,2025-02-12,Debit,12338.72,Active
+CUST1055,Lori Sutton,58,Male,Savings,59256.82,2023-12-06,Credit,3865.95,
+CUST1013,Jose Carrillo,59,Male,Loan,10569.9,2024-07-06,Credit,17254.87,Closed
+CUST1005,Charles Anderson,18,Male,Current,93381.92,2024-06-03,Debit,17476.55,
+CUST1087,Willie Elliott,51,Female,Fixed Deposit,79263.98,2024-01-10,Debit,17777.02,
+CUST1097,Daniel Sparks,49,Female,Savings,71415.54,2024-10-26,Debit,4689.93,
+CUST1029,Jessica Carey,68,Male,Savings,33864.5,2025-07-30,Debit,5607.78,
+CUST1048,Amanda Brown,59,Female,Savings,70411.24,2025-02-05,Credit,19548.06,
+CUST1098,Amanda Goodman,31,Female,Fixed Deposit,54630.22,2024-03-02,Credit,569.7,
+CUST1023,Sean Edwards,56,Male,Loan,83396.96,2024-02-02,Credit,19568.97,Closed
+CUST1070,Randy Martinez,55,Male,Savings,13364.29,2025-01-30,Debit,14462.22,
+CUST1074,Kenneth Smith,27,Male,Loan,98549.95,2024-01-26,Debit,9822.51,Default
+CUST1084,Douglas Gomez,62,Male,Fixed Deposit,65273.7,2025-07-17,Debit,14163.87,
+CUST1028,Mitchell Wilson,35,Male,Loan,99682.61,2025-01-24,Debit,7247.61,Closed
+CUST1042,Dr. Victoria Maddox,56,Male,Fixed Deposit,15912.62,2024-07-24,Credit,1889.59,
+CUST1072,Zachary Villanueva,49,Male,Fixed Deposit,97415.06,2023-11-08,Debit,19452.89,
+CUST1020,Jennifer Shaw,46,Male,Savings,33582.3,2025-06-08,Credit,11054.64,
+CUST1082,Adrienne West,22,Male,Fixed Deposit,87618.67,2025-03-30,Debit,16395.4,
+CUST1071,Latoya Bailey,18,Male,Fixed Deposit,85604.32,2024-10-24,Credit,4735.57,
+CUST1030,Michelle Henry,61,Female,Fixed Deposit,51595.4,2025-05-01,Debit,13421.61,
+CUST1029,Jessica Carey,68,Male,Loan,21853.35,2025-02-15,Debit,3222.41,Active
+CUST1078,Denise Miller,22,Male,Fixed Deposit,30039.76,2024-09-08,Debit,7278.96,
+CUST1084,Douglas Gomez,62,Male,Loan,37188.78,2023-12-10,Credit,13878.98,Active
+CUST1019,Pamela Kelly,31,Female,Loan,75368.2,2025-03-11,Debit,5819.42,Active
+CUST1015,Bonnie Chavez,48,Female,Loan,11273.84,2024-01-04,Debit,8609.99,Active
+CUST1100,Matthew Howe,19,Male,Savings,19068.29,2024-05-28,Debit,9600.78,
+CUST1100,Matthew Howe,19,Male,Current,97682.05,2025-07-24,Credit,13735.08,
+CUST1022,Karla Tucker,35,Male,Loan,44886.31,2024-07-30,Credit,17372.58,Default
+CUST1002,Donna Gordon MD,22,Female,Fixed Deposit,95395.04,2024-09-21,Debit,10161.68,
+CUST1023,Sean Edwards,56,Male,Savings,67429.09,2024-04-17,Debit,3763.45,
+CUST1086,Rebekah Brooks,69,Male,Current,39464.99,2024-09-07,Debit,1721.26,
+CUST1037,Molly Austin,40,Female,Fixed Deposit,44526.76,2024-10-08,Credit,6420.78,
+CUST1061,James Patton,41,Female,Savings,15408.0,2024-12-20,Debit,16033.38,
+CUST1078,Denise Miller,22,Male,Loan,13523.35,2025-07-05,Debit,19831.88,Default
+CUST1022,Karla Tucker,35,Male,Savings,7063.36,2025-06-09,Debit,8819.47,
+CUST1051,Wendy Lowery,36,Female,Fixed Deposit,44446.08,2024-03-11,Debit,8324.82,
+CUST1099,Madison Ramos,54,Female,Savings,58716.49,2024-05-27,Credit,18566.35,
+CUST1023,Sean Edwards,56,Male,Loan,89211.57,2025-04-16,Credit,7540.6,Active
+CUST1097,Daniel Sparks,49,Female,Savings,62586.22,2025-07-06,Credit,1825.8,
+CUST1097,Daniel Sparks,49,Female,Loan,43886.62,2024-09-19,Debit,18063.47,Default
+CUST1011,Charles Bates,45,Male,Loan,74040.26,2024-05-23,Debit,19071.09,Default
+CUST1040,Jamie Gomez,18,Female,Savings,76402.73,2024-04-29,Debit,2284.56,
+CUST1098,Amanda Goodman,31,Female,Current,93628.29,2025-03-14,Credit,13034.17,
+CUST1021,Gregory Copeland,50,Male,Loan,21333.77,2024-10-29,Debit,16277.4,Active
+CUST1073,Brittany Coleman,28,Female,Fixed Deposit,82392.5,2025-02-19,Credit,3434.83,
+CUST1016,John Martinez,21,Male,Fixed Deposit,21484.37,2024-04-20,Credit,16006.01,
+CUST1061,James Patton,41,Female,Fixed Deposit,1201.41,2025-08-21,Credit,18339.67,
+CUST1070,Randy Martinez,55,Male,Savings,44189.76,2025-04-12,Debit,17011.81,
+CUST1047,Omar Williams,47,Female,Current,92216.94,2024-09-09,Credit,19184.14,
+CUST1024,Barbara Brewer,52,Male,Fixed Deposit,54515.22,2024-01-30,Credit,7767.74,
+CUST1009,Lauren Jackson,37,Male,Loan,38281.95,2025-07-02,Credit,12774.26,Default
+CUST1096,Kyle Kramer,56,Male,Loan,69832.59,2025-03-04,Credit,19633.13,Default
+CUST1070,Randy Martinez,55,Male,Savings,68486.78,2025-05-17,Credit,12288.85,
+CUST1095,Sheena Jackson,28,Male,Current,73442.22,2025-06-05,Debit,11021.34,
+CUST1041,Leonard Craig,35,Male,Fixed Deposit,60828.34,2024-07-26,Credit,8403.72,
+CUST1041,Leonard Craig,35,Male,Fixed Deposit,83580.04,2024-11-28,Debit,8382.51,
+CUST1010,Amanda Beck,66,Female,Loan,32701.04,2024-05-10,Credit,18214.85,Default
+CUST1007,Anthony Ware,63,Female,Savings,28167.57,2025-03-24,Credit,16538.66,
+CUST1033,Jennifer Watson,56,Female,Loan,32275.26,2024-07-23,Debit,1620.16,Closed
+CUST1074,Kenneth Smith,27,Male,Fixed Deposit,14880.17,2024-01-21,Credit,2400.05,
+CUST1026,Joseph Lopez,48,Male,Fixed Deposit,17746.44,2023-12-26,Credit,1355.11,
+CUST1083,Rachel Ayala,20,Male,Savings,33750.11,2025-05-20,Debit,6164.11,
+CUST1010,Amanda Beck,66,Female,Fixed Deposit,1861.65,2024-04-15,Credit,8295.35,
+CUST1033,Jennifer Watson,56,Female,Loan,2769.54,2025-08-26,Debit,19193.09,Closed
+CUST1098,Amanda Goodman,31,Female,Savings,53306.31,2024-01-24,Debit,15708.93,
+CUST1048,Amanda Brown,59,Female,Current,16247.1,2024-08-11,Credit,1745.55,
+CUST1082,Adrienne West,22,Male,Savings,49758.49,2025-08-21,Credit,12983.42,
+CUST1065,Patricia Baker,49,Male,Fixed Deposit,76150.01,2023-11-01,Debit,13344.83,
+CUST1013,Jose Carrillo,59,Male,Fixed Deposit,22294.82,2023-11-12,Credit,18532.73,
+CUST1017,Robert Jones,54,Female,Current,64642.99,2023-10-20,Credit,6277.95,
+CUST1005,Charles Anderson,18,Male,Current,40397.62,2024-04-21,Debit,15701.47,
+CUST1049,Timothy Booth,38,Male,Fixed Deposit,44779.61,2024-05-21,Credit,19237.19,
+CUST1003,Jonathan Peck,65,Male,Loan,3579.55,2024-01-13,Debit,3030.43,Default
+CUST1086,Rebekah Brooks,69,Male,Loan,16091.79,2024-06-19,Debit,2828.68,Default
+CUST1059,Michael Thomas MD,51,Male,Current,84692.3,2025-07-25,Credit,1742.63,
+CUST1044,Sylvia Mcpherson,36,Female,Current,31754.87,2024-12-13,Debit,5026.79,
+CUST1065,Patricia Baker,49,Male,Loan,34251.92,2023-10-20,Debit,8603.79,Default
+CUST1076,Jordan Hicks,36,Female,Savings,50708.49,2024-07-13,Debit,6465.67,
+CUST1083,Rachel Ayala,20,Male,Savings,64561.0,2025-08-02,Debit,1322.68,
+CUST1099,Madison Ramos,54,Female,Savings,38831.38,2025-03-12,Credit,17475.58,
+CUST1098,Amanda Goodman,31,Female,Savings,55922.75,2025-08-12,Debit,18399.86,
+CUST1100,Matthew Howe,19,Male,Current,28390.91,2024-06-24,Credit,5765.15,
+CUST1078,Denise Miller,22,Male,Fixed Deposit,12843.91,2025-07-20,Credit,8207.21,
+CUST1021,Gregory Copeland,50,Male,Current,66010.83,2025-01-16,Debit,12966.29,
+CUST1013,Jose Carrillo,59,Male,Current,65345.08,2024-04-14,Debit,2049.87,
+CUST1014,Carmen Patterson,18,Male,Current,6404.55,2023-11-03,Credit,12957.45,
+CUST1035,Theresa Lara,54,Female,Current,49957.44,2023-11-30,Debit,9665.19,
+CUST1007,Anthony Ware,63,Female,Fixed Deposit,79412.96,2023-10-02,Debit,10726.29,
+CUST1025,Dwayne Decker,35,Female,Savings,74149.14,2023-09-25,Debit,9137.99,
+CUST1033,Jennifer Watson,56,Female,Fixed Deposit,19637.54,2025-03-07,Credit,14137.67,
+CUST1014,Carmen Patterson,18,Male,Fixed Deposit,97612.52,2025-06-25,Debit,6215.84,
+CUST1031,Gary Hill,50,Female,Savings,42333.9,2024-06-08,Debit,8106.83,
+CUST1089,Victoria Harris,52,Female,Savings,80413.72,2024-04-15,Debit,15480.94,
+CUST1039,Walter Thomas,49,Male,Savings,94028.46,2024-02-07,Debit,4941.46,
+CUST1044,Sylvia Mcpherson,36,Female,Current,36493.75,2024-12-07,Debit,3629.4,
+CUST1068,Timothy Mitchell,42,Female,Loan,87194.08,2025-05-08,Credit,12238.04,Closed
+CUST1091,Elizabeth Mitchell,25,Male,Current,83105.68,2024-10-01,Credit,15086.13,
+CUST1090,Jeff Hawkins,54,Male,Loan,83455.07,2024-01-26,Credit,13528.37,Active
+CUST1083,Rachel Ayala,20,Male,Savings,85120.62,2024-07-11,Debit,10773.99,
+CUST1031,Gary Hill,50,Female,Loan,19800.82,2024-05-03,Credit,9744.13,Active
+CUST1064,Evan Peterson,53,Male,Fixed Deposit,14781.45,2025-09-07,Credit,570.27,
+CUST1083,Rachel Ayala,20,Male,Fixed Deposit,65939.62,2025-04-03,Credit,8652.59,
+CUST1051,Wendy Lowery,36,Female,Current,99252.65,2024-06-30,Credit,1092.78,
+CUST1022,Karla Tucker,35,Male,Fixed Deposit,92999.3,2024-06-25,Debit,14543.1,
+CUST1026,Joseph Lopez,48,Male,Savings,36337.89,2024-07-03,Debit,11625.1,
+CUST1093,Michael Miller,55,Female,Fixed Deposit,47860.89,2024-09-02,Credit,4955.85,
+CUST1007,Anthony Ware,63,Female,Savings,45480.28,2024-10-30,Debit,8815.16,
+CUST1043,Daniel Spencer,20,Male,Loan,55468.48,2025-07-05,Credit,4622.76,Active
+CUST1064,Evan Peterson,53,Male,Fixed Deposit,35286.42,2024-08-07,Debit,9036.22,
+CUST1011,Charles Bates,45,Male,Savings,14276.58,2024-06-23,Debit,1398.03,
+CUST1039,Walter Thomas,49,Male,Fixed Deposit,26308.59,2025-07-12,Credit,9317.81,
+CUST1052,Shannon Olson,28,Female,Loan,37359.53,2024-06-20,Credit,12988.11,Default
+CUST1087,Willie Elliott,51,Female,Savings,41694.62,2024-10-11,Debit,6196.92,
+CUST1009,Lauren Jackson,37,Male,Loan,3876.88,2023-11-30,Credit,6988.94,Default
+CUST1093,Michael Miller,55,Female,Savings,63293.12,2024-08-13,Debit,2790.17,
+CUST1062,Tanya Pena,69,Female,Fixed Deposit,1498.2,2025-07-28,Debit,16709.56,
+CUST1091,Elizabeth Mitchell,25,Male,Savings,80093.4,2025-01-26,Debit,5172.0,
+CUST1087,Willie Elliott,51,Female,Loan,17935.82,2023-10-09,Credit,9783.13,Active
+CUST1093,Michael Miller,55,Female,Fixed Deposit,39907.82,2024-09-03,Credit,14913.65,
+CUST1031,Gary Hill,50,Female,Savings,97841.05,2024-10-22,Credit,13380.15,
+CUST1009,Lauren Jackson,37,Male,Savings,82099.18,2023-11-26,Debit,6765.84,
+CUST1052,Shannon Olson,28,Female,Loan,86661.53,2025-02-23,Debit,12739.47,Active
+CUST1015,Bonnie Chavez,48,Female,Loan,90393.36,2023-09-24,Credit,19739.0,Default
+CUST1011,Charles Bates,45,Male,Loan,65847.43,2024-03-10,Credit,16974.42,Default
+CUST1039,Walter Thomas,49,Male,Loan,24104.61,2023-10-16,Credit,15494.84,Active
+CUST1015,Bonnie Chavez,48,Female,Current,63627.21,2023-12-01,Credit,11831.67,
+CUST1017,Robert Jones,54,Female,Current,24620.86,2025-05-30,Credit,7256.29,
+CUST1020,Jennifer Shaw,46,Male,Current,23845.82,2024-11-02,Debit,14823.37,
+CUST1100,Matthew Howe,19,Male,Savings,59796.11,2023-12-20,Credit,6324.9,
+CUST1067,Kelly Murphy,41,Female,Fixed Deposit,58692.24,2024-06-28,Debit,941.47,
+CUST1062,Tanya Pena,69,Female,Current,66669.58,2025-01-14,Debit,5576.2,
+CUST1011,Charles Bates,45,Male,Current,86816.17,2024-12-01,Debit,19424.23,
+CUST1089,Victoria Harris,52,Female,Current,17884.89,2025-05-23,Debit,1794.85,
+CUST1042,Dr. Victoria Maddox,56,Male,Loan,87434.37,2023-12-27,Credit,6961.58,Active
+CUST1066,Steven Vasquez,62,Male,Loan,44399.72,2024-04-20,Debit,18390.61,Default
+CUST1053,Tammy Noble,55,Female,Savings,46872.04,2024-09-06,Credit,7835.91,
+CUST1052,Shannon Olson,28,Female,Loan,91867.06,2024-12-03,Debit,12481.7,Active
+CUST1062,Tanya Pena,69,Female,Current,20317.82,2025-05-02,Credit,19768.68,
+CUST1012,Shannon Garcia,46,Female,Fixed Deposit,91257.15,2024-09-04,Debit,9545.22,
+CUST1023,Sean Edwards,56,Male,Loan,98263.19,2024-07-16,Credit,1997.14,Active
+CUST1063,Jonathan Clayton,66,Female,Savings,65351.25,2024-01-16,Debit,4943.41,
+CUST1027,Calvin Simmons,50,Male,Current,14518.76,2024-02-26,Credit,2391.71,
+CUST1034,Wayne Roth,45,Female,Loan,70318.64,2025-04-13,Debit,9060.24,Closed
+CUST1015,Bonnie Chavez,48,Female,Current,94526.11,2023-10-27,Credit,15538.42,
+CUST1024,Barbara Brewer,52,Male,Loan,13147.57,2024-01-07,Debit,1959.46,Closed
+CUST1046,Lisa Daniels,55,Male,Current,56425.44,2025-09-09,Debit,1623.48,
+CUST1020,Jennifer Shaw,46,Male,Loan,8016.06,2025-07-01,Debit,4090.8,Closed
+CUST1093,Michael Miller,55,Female,Current,7666.88,2025-06-02,Credit,1871.03,
+CUST1092,Suzanne Mcconnell,24,Male,Savings,19379.21,2024-08-09,Debit,8513.52,
+CUST1099,Madison Ramos,54,Female,Current,41878.94,2024-07-21,Credit,11943.97,
+CUST1027,Calvin Simmons,50,Male,Loan,13504.99,2024-04-29,Debit,10230.72,Closed
+CUST1090,Jeff Hawkins,54,Male,Fixed Deposit,78961.11,2024-04-09,Credit,8594.85,
+CUST1027,Calvin Simmons,50,Male,Savings,57058.89,2023-09-24,Debit,13724.33,
+CUST1029,Jessica Carey,68,Male,Loan,16904.23,2024-08-14,Credit,7195.99,Closed
+CUST1045,Ronald Jones,64,Female,Fixed Deposit,14518.15,2023-10-21,Credit,15194.06,
+CUST1075,Taylor Ortiz,21,Female,Savings,23314.53,2025-04-22,Credit,5471.26,
+CUST1067,Kelly Murphy,41,Female,Loan,79853.37,2025-03-29,Credit,1875.83,Closed
+CUST1100,Matthew Howe,19,Male,Loan,53591.16,2025-04-20,Credit,10720.38,Closed
+CUST1092,Suzanne Mcconnell,24,Male,Fixed Deposit,85374.89,2025-06-12,Credit,2426.99,
+CUST1021,Gregory Copeland,50,Male,Current,61520.02,2025-01-01,Debit,13401.77,
+CUST1053,Tammy Noble,55,Female,Current,64242.87,2024-11-07,Debit,7393.5,
+CUST1052,Shannon Olson,28,Female,Savings,58172.39,2025-05-18,Credit,18717.0,
+CUST1093,Michael Miller,55,Female,Savings,43977.19,2024-04-25,Debit,1705.79,
+CUST1087,Willie Elliott,51,Female,Savings,81059.2,2024-02-03,Debit,17202.38,
+CUST1027,Calvin Simmons,50,Male,Fixed Deposit,39625.39,2024-04-26,Debit,1099.43,
+CUST1075,Taylor Ortiz,21,Female,Loan,93665.85,2025-05-14,Credit,5433.24,Active
+CUST1010,Amanda Beck,66,Female,Current,3753.85,2024-02-19,Credit,16706.24,
+CUST1049,Timothy Booth,38,Male,Loan,87718.08,2023-12-26,Debit,15711.93,Default
+CUST1065,Patricia Baker,49,Male,Savings,32321.25,2025-05-04,Debit,15390.37,
+CUST1007,Anthony Ware,63,Female,Fixed Deposit,95439.82,2024-01-18,Credit,15274.29,
+CUST1022,Karla Tucker,35,Male,Current,84451.09,2025-04-09,Credit,13398.31,
+CUST1027,Calvin Simmons,50,Male,Loan,92056.93,2024-12-09,Credit,10636.76,Default
+CUST1044,Sylvia Mcpherson,36,Female,Loan,12315.64,2023-10-18,Debit,9537.74,Active
+CUST1063,Jonathan Clayton,66,Female,Current,93410.92,2024-03-13,Debit,14332.94,
+CUST1057,Robert Harper,31,Male,Current,77505.11,2023-11-08,Debit,12247.4,
+CUST1022,Karla Tucker,35,Male,Fixed Deposit,80341.9,2025-08-05,Debit,2705.2,
+CUST1065,Patricia Baker,49,Male,Loan,56729.05,2024-12-25,Credit,5131.69,Active
+CUST1037,Molly Austin,40,Female,Loan,73301.79,2024-02-18,Debit,16657.61,Closed
+CUST1069,Robert Vasquez,42,Male,Current,38185.88,2024-07-02,Credit,9229.26,
+CUST1099,Madison Ramos,54,Female,Current,32336.5,2025-02-02,Credit,11765.14,
+CUST1020,Jennifer Shaw,46,Male,Loan,59286.27,2024-02-14,Credit,2228.94,Default
+CUST1056,Duane Carroll,58,Male,Loan,17098.11,2025-04-07,Debit,11277.7,Closed
+CUST1059,Michael Thomas MD,51,Male,Savings,79010.0,2024-01-21,Credit,4301.69,
+CUST1097,Daniel Sparks,49,Female,Current,94044.11,2024-03-26,Credit,1379.79,
+CUST1062,Tanya Pena,69,Female,Loan,89695.43,2025-05-11,Debit,14141.6,Active
+CUST1097,Daniel Sparks,49,Female,Savings,1401.91,2025-01-19,Debit,5603.77,
+CUST1046,Lisa Daniels,55,Male,Fixed Deposit,60639.35,2024-06-30,Credit,3279.22,
+CUST1100,Matthew Howe,19,Male,Loan,75002.56,2025-04-26,Debit,13041.46,Active
+CUST1045,Ronald Jones,64,Female,Current,31501.01,2024-08-07,Credit,10255.81,
+CUST1022,Karla Tucker,35,Male,Loan,1090.22,2023-10-08,Debit,19041.34,Closed
+CUST1077,William Sosa PhD,44,Female,Current,33490.06,2023-10-18,Credit,1759.28,
+CUST1025,Dwayne Decker,35,Female,Loan,61513.65,2024-09-01,Credit,5897.58,Active
+CUST1013,Jose Carrillo,59,Male,Current,97590.68,2024-10-25,Debit,10262.43,
+CUST1034,Wayne Roth,45,Female,Current,39561.77,2025-03-07,Credit,5482.71,
+CUST1081,Christopher Moore,48,Male,Savings,78851.86,2025-08-17,Credit,14259.23,
